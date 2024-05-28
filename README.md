@@ -13,6 +13,3 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, com uma paix
 ###
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielatomazsc&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
